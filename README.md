@@ -2,6 +2,9 @@
 
 ## References down below
 
+# Wireframe
+![Alt text](./preview/Wireframe.png "wireframe")
+
 # Desktop
 ![Alt text](./preview/desktop.png "desktop")
 
